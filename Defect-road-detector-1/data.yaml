@@ -1,0 +1,14 @@
+names:
+- alligator-crack
+- crack
+- pothole
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: defect-road-detector
+  url: https://universe.roboflow.com/defect-detection-nqy7t/defect-road-detector/dataset/1
+  version: 1
+  workspace: defect-detection-nqy7t
+test: test/images
+train: train/images
+val: valid/images
